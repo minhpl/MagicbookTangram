@@ -1,0 +1,12 @@
+/libs/
+/OpenCV/
+/tangramJson/
+/obj/
+/x64/
+/ProjectSettings/
+/IOS/
+/.vs/
+/Library/
+/packages/
+/Debug/
+/UnityPackageManager/
